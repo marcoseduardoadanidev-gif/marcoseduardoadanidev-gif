@@ -1,123 +1,62 @@
-[github_readme_dev_moderno_java.md](https://github.com/user-attachments/files/28203127/github_readme_dev_moderno_java.md)
-# README GitHub — Estilo Dev Moderno Java
+<h1 align="center">
+  <img src="./banner.png"/>
+</h1>
 
-```md
-<h1 align="center">☕ Java Modern Developer</h1>
-
-<p align="center">
-  Desenvolvendo aplicações modernas, escaláveis e performáticas com Java.
-</p>
-
----
-
-## 🚀 Tecnologias
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,git,github,linux,maven" />
-</p>
-
----
-
-## 📊 Estatísticas
+<h1 align="center">☕ Marcos Eduardo</h1>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+  <strong>Desenvolvedor Java Backend</strong>
 </p>
-
----
-
-## 🔥 Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
+  Transformando ideias em soluções robustas com código limpo e arquitetura sólida.
 </p>
 
 ---
 
-## 💻 Sobre mim
+# 👨‍💻 Sobre mim
 
 ```java
-public class MarcosDev {
+public class MarcosEduardo {
 
-    String foco = "Backend Java";
-    String stack = "Java + Spring Boot";
-    String banco = "PostgreSQL";
-    String objetivo = "Criar sistemas modernos e eficientes";
+    String role = "Java Backend Developer";
+    String stack = "Java ";
+    String database = "SQL Server";
+    String mission = "Construir soluções modernas e escaláveis";
+
 }
-```
 
----
+💻 Apaixonado por tecnologia
+🚀 Focado em backend moderno com Java
+⚡ Sempre aprendendo novas tecnologias
+🔥 Clean Code • SOLID • Arquitetura Limpa
 
-## 🛠️ Stack Principal
+🚀 Stack Principal
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,docker,git,maven,linux,github" /> </p> <p align="center">
 
-- ☕ Java
-- 🌱 Spring Boot
-- 🐘 PostgreSQL
-- 🐳 Docker
-- 🔧 Maven
-- 🔐 APIs REST
-- ⚡ Microsserviços
 
----
 
-## 🌐 Redes
 
-<p align="left">
-  <a href="https://linkedin.com/in/SEU_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 
-  <a href="mailto:SEUEMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
 </p>
+📊 GitHub Stats
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoseduardoadanidev-gif&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoseduardoadanidev-gif&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+🔥 Streak
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcoseduardoadanidev-gif&theme=tokyonight&hide_border=true"/> </p>
+🐍 Contribuições
+<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/> </p>
+📌 Projetos em Destaque
+<table> <tr> <td width="50%">
 
----
+🌐 Redes
 
-## 🐍 Snake Animation
-
+☕ Frase
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+<i>"Código limpo não é escrito seguindo regras.
+É escrito com intenção."</i>
+
 </p>
-
----
-
-<p align="center">
-  ⚡ Sempre aprendendo e construindo soluções modernas com Java.
-</p>
-```
-
----
-
-# Como usar
-
-1. Crie um repositório com o mesmo nome do seu usuário.
-2. Exemplo:
-
-```txt
-seuusuario/seuusuario
-```
-
-3. Crie um arquivo:
-
-```txt
-README.md
-```
-
-4. Cole o conteúdo acima.
-5. Troque:
-- `SEU_USUARIO`
-- `SEU_LINK`
-- `SEUEMAIL`
-
----
-
-# Visual esperado
-
-- Tema dark moderno
-- Estatísticas animadas
-- Visual clean e profissional
-- Stack Java destacada
-- Compatível com mobile
+<p align="center"> ⚡ Desenvolvedor Java moderno construindo soluções backend robustas. </p> ```
 
