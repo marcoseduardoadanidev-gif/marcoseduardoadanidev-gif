@@ -42,12 +42,6 @@ public class MarcosEduardo {
 </p>
 📊 GitHub Stats
 <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoseduardoadanidev-gif&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoseduardoadanidev-gif&layout=compact&theme=tokyonight&hide_border=true"/> </p>
-🔥 Streak
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcoseduardoadanidev-gif&theme=tokyonight&hide_border=true"/> </p>
-🐍 Contribuições
-<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/> </p>
-📌 Projetos em Destaque
-<table> <tr> <td width="50%">
 
 🌐 Redes
 
