@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./banner.jpg"/>
+  <img src="./banner"/>
 </h1>
 
 <h1 align="center">☕ Marcos Eduardo</h1>
